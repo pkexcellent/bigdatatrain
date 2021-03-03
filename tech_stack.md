@@ -56,5 +56,6 @@
     * Hudi
     * Iceberg
 * EKS
+* Spark 3.0
 
 
